@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_number_2" label="Number 2" language="en" table="u_github">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_number_2</element>
+            <help/>
+            <hint/>
+            <label>Number 2</label>
+            <language>en</language>
+            <name>u_github</name>
+            <plural>Number 2s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-12 06:49:13</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Number 2</sys_name>
+            <sys_package display_value="data model" source="8bb45830977246505ea9b711f053af39">8bb45830977246505ea9b711f053af39</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="data model">8bb45830977246505ea9b711f053af39</sys_scope>
+            <sys_update_name>sys_documentation_u_github_u_number_2_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-12 06:49:13</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-12 06:49:16</sys_created_on>
+        <sys_id>196554f0977246505ea9b711f053af2d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_github.admin</sys_name>
+        <sys_package display_value="data model" source="8bb45830977246505ea9b711f053af39">8bb45830977246505ea9b711f053af39</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="data model">8bb45830977246505ea9b711f053af39</sys_scope>
+        <sys_security_acl display_value="u_github">5d6554f0977246505ea9b711f053af2a</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_196554f0977246505ea9b711f053af2d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-12 06:49:16</sys_updated_on>
+        <sys_user_role display_value="admin" name="admin">2831a114c611228501d4ea6c309d626d</sys_user_role>
+    </sys_security_acl_role>
+</record_update>
